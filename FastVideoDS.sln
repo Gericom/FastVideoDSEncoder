@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gericom.FastVideoDS", "Gericom.FastVideoDS\Gericom.FastVideoDS.csproj", "{AC320DAA-A040-4654-A4F2-238224723834}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastVideoDSEncoder", "FastVideoDSEncoder\FastVideoDSEncoder.csproj", "{6D06AE63-9EB8-4FFA-891C-455CB95A23BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastVideoDSInfo", "FastVideoDSInfo\FastVideoDSInfo.csproj", "{BC08ACC4-8B61-4801-8532-D5D054795809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC320DAA-A040-4654-A4F2-238224723834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC320DAA-A040-4654-A4F2-238224723834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC320DAA-A040-4654-A4F2-238224723834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC320DAA-A040-4654-A4F2-238224723834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D06AE63-9EB8-4FFA-891C-455CB95A23BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D06AE63-9EB8-4FFA-891C-455CB95A23BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D06AE63-9EB8-4FFA-891C-455CB95A23BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D06AE63-9EB8-4FFA-891C-455CB95A23BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC08ACC4-8B61-4801-8532-D5D054795809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC08ACC4-8B61-4801-8532-D5D054795809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC08ACC4-8B61-4801-8532-D5D054795809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC08ACC4-8B61-4801-8532-D5D054795809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35CAC4B4-A8ED-4DBA-941D-7E4438178987}
+	EndGlobalSection
+EndGlobal
